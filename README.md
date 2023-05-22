@@ -1,10 +1,7 @@
 # Theatre-seats---Java
 Creating a Theatre seats booking system using Java
 
-<p align="center">
-  # **Context**
-</p>
-
+# **Context**
 
 A new theatre company called ‘New Theatre’ has asked you to design and implement a new
 Java program to manage and control the seats that have been sold and the seats that are still
